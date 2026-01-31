@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Test FormSubmit</title>
+</head>
+<body>
+
+<form action="https://formsubmit.co/TU_CORREO@email.com" method="POST">
+  <input type="text" name="name" placeholder="Nombre" required>
+  <input type="email" name="email" placeholder="Correo" required>
+
+  <input type="hidden" name="_next" value="https://landing.laescuelaenunacancion.com/thanks.html">
+  <input type="hidden" name="_captcha" value="false">
+
+  <button type="submit">Enviar</button>
+</form>
+
+</body>
+</html>
