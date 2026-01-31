@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<form action="https://formsubmit.co/TU_CORREO@email.com" method="POST">
+<form action="https://formsubmit.co/camontoya56@gmail.com" method="POST">
   <input type="text" name="name" placeholder="Nombre" required>
   <input type="email" name="email" placeholder="Correo" required>
 
